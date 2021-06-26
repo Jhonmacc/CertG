@@ -1,4 +1,4 @@
 # CertG Gerenciador de Certificados Digitais A1
-# O PORJETO TEM COOMO INTUITO DE CRIAR UM AMBIENTE A ONDE AS CONTABILIDADES OU CERTIFICADORAS POSSAM TER O CONTROLE DOS CERTIFICADOS DAS EMPRESAS COMO INFORMAÇÕES DOS DADOS CONTIDOS NO CERTIFICADO COMO RAZÃO SOCIAL, CNPJ, E-MAIL, DATA DE VEMCIMENTO O SISTEMA IRÁ NOTIFICAR POR E-MAIL OS CERTIFICADOS QUE ESTARÃO PRÓXIMOS DE VENCER OU QUANDO VENCER. 
+# o projeto tem como intuito de criar um ambiente a onde as contabilidades ou certificadoras possam ter o controle dos certificados das empresas como informações dos dados contidos no certificado como razão social, cnpj, e-mail, data de vencimento o sistema irá notificar por e-mail os certificados que estarão próximos de vencer ou quando vencer. 
 
 -----O porjeto ainda está em fase de implementação------
