@@ -4,4 +4,4 @@
 # como razão social, cnpj, e-mail, data de vencimento o sistema irá notificar por e-mail os certificados 
 # que estarão próximos de vencer ou quando vencer. 
 
------O porjeto ainda está em fase de implementação------
+-----O projeto ainda está em fase de implementação------
